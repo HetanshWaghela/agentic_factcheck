@@ -5,7 +5,7 @@ An AI-powered fact-checking agent that automatically detects and verifies misinf
 ## 🌟 Features
 
 - **Multi-Source Content Scanning**: Monitors RSS feeds, news sources (with free APIs)
-- **Advanced NLP Claim Detection**: Uses FREE libraries (NLTK, TextBlob) for claim analysis
+- **Advanced NLP Claim Detection**: Uses libraries (NLTK, TextBlob) for claim analysis
 - **Pattern-Based Fact Verification**: Rule-based verification system
 - **Real-time Monitoring**: Continuous scanning with configurable intervals
 - **Crisis-Focused**: Specifically designed for crisis-related misinformation
