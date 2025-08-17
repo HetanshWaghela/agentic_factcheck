@@ -1,8 +1,6 @@
-# 🔍 Agentic Fact-Check System (100% FREE!)
+# 🔍 Agentic Fact-Check System 
 
 An AI-powered fact-checking agent that automatically detects and verifies misinformation during global crises. The system scans multiple content streams, identifies factual claims, verifies them against reliable sources, and provides accessible explanations.
-
-**🆓 COMPLETELY FREE - NO PAID APIs REQUIRED!**
 
 ## 🌟 Features
 
@@ -53,19 +51,13 @@ Choose from:
 2. **Continuous Monitoring**: Monitor continuously with automatic intervals
 3. **Exit**: Stop the program
 
-## 💝 What Makes This Completely FREE?
 
-### No Paid APIs Required
-- ❌ **No OpenAI/ChatGPT**: Uses free NLP libraries instead
-- ❌ **No Google APIs**: Uses free RSS feeds and web scraping
-- ❌ **No Premium Services**: Everything runs locally on your computer
-
-### Free Technologies Used
-- 🆓 **NLTK**: Free natural language processing
-- 🆓 **TextBlob**: Free sentiment analysis and text processing
-- 🆓 **RSS Feeds**: Free news content from major outlets
+### Technologies Used
+- 🆓 **NLTK**: Natural language processing
+- 🆓 **TextBlob**: Sentiment analysis and text processing
+- 🆓 **RSS Feeds**: News content from major outlets
 - 🆓 **Regex Patterns**: Advanced pattern matching for claim detection
-- 🆓 **Python Libraries**: All open-source and free
+- 🆓 **Python Libraries**: All open-source 
 
 ## 📁 Project Structure
 
@@ -206,62 +198,5 @@ This is a foundational system that can be extended with:
 - **Web Dashboard**: Real-time monitoring interface
 - **API Endpoints**: RESTful API for integration
 
-## 🤝 Contributing
 
-This project is designed to be beginner-friendly and extensible:
-
-1. **Fork the repository**
-2. **Create a feature branch**: `git checkout -b feature/amazing-feature`
-3. **Make your changes**: Focus on one feature at a time
-4. **Test thoroughly**: Ensure your changes work correctly
-5. **Commit your changes**: `git commit -m 'Add amazing feature'`
-6. **Push to the branch**: `git push origin feature/amazing-feature`
-7. **Open a Pull Request**
-
-### Areas for Contribution
-- Enhanced claim detection algorithms
-- Additional content sources
-- Better verification methods
-- User interface improvements
-- Documentation and examples
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🆘 Support
-
-Having trouble? Here are some common solutions:
-
-### Common Issues
-
-**"No content found"**
-- Check your News API key
-- Verify internet connection
-- Try different crisis keywords
-
-**"OpenAI API errors"**
-- Verify your OpenAI API key
-- Check your account credits
-- Ensure you're using a supported model
-
-**"Import errors"**
-- Install all dependencies: `pip install -r requirements.txt`
-- Check Python version (3.8+ required)
-
-### Getting Help
-
-1. Check the [Issues](https://github.com/HetanshWaghela/agentic_factcheck/issues) page
-2. Create a new issue with details about your problem
-3. Include error messages and system information
-
-## 🙏 Acknowledgments
-
-- OpenAI for providing the language models
-- News API for content access
-- The fact-checking community for inspiration
-- Open source contributors and maintainers
-
----
-
-**Built with ❤️ for fighting misinformation during global crises**
+**Built with ❤️ for fighting misinformation during crises**
