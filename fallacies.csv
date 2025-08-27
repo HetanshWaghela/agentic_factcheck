@@ -1,0 +1,20 @@
+coarse_class,fine_class,definition,included_in_experiments,notes
+Fallacy of Relevance,Ad Hominem,Attacks the person (subject) and uses that as a premise for the claim.,Yes,Premises are irrelevant to the conclusion; example: attacking an ex‑convict’s credibility to dismiss penal system suggestions.
+Fallacy of Relevance,Ad Populum,Asserts a claim based on popular belief (appeal to the people).,Yes,"E.g., 'Aliens must exist because most people believe in them.'"
+Fallacy of Relevance,Appeal to Emotion,Manipulates the listener’s emotions to support the claim.,Yes,Includes pity/fear/etc.; premises are emotionally charged but irrelevant.
+Fallacy of Relevance,Fallacy of Extension,Exaggerates or extends an opponent’s position to make it easier to attack.,Yes,Closely related to 'straw man' style extensions.
+Fallacy of Relevance,Intentional,Uses subconscious or intentional choices to incorrectly support an argument.,No,Marked with dotted boundary in Figure 1; excluded due to ambiguous mapping.
+Fallacy of Defective Induction,False Causality,Concludes a causal relation not warranted by the premises.,Yes,Correlation or temporal sequence treated as causation.
+Fallacy of Defective Induction,False Dilemma,Erroneously limits the options available to force a conclusion.,Yes,Presents two choices where more exist.
+Fallacy of Defective Induction,Faulty Generalization,Generalizes from insufficient or unrepresentative evidence.,Yes,"E.g., infers a broad claim from a single or few cases."
+Fallacy of Defective Induction,Fallacy of Credibility,Questions the credibility of the subject making a claim instead of the claim itself.,Yes,Credibility-based induction problem distinct from pure relevance attack.
+Fallacy of Defective Induction,Fallacy of Logic,Uses an inaccurate or misleading logical construct.,No,Dotted in Figure 1; excluded in experimental mapping.
+Fallacy of Presumption,Circular Reasoning,The conclusion is assumed in the premises; argument returns to its starting point.,Yes,Also known as 'circulus in probando'.
+Fallacy of Presumption,Begging the Question,Treats the conclusion as an assumption that supports itself.,No,Marked dotted / out of scope in this study.
+Fallacy of Presumption,Complex Question,Asks a loaded question that presupposes an unproven assumption.,No,Marked dotted / out of scope in this study.
+Fallacy of Presumption,Accident,Applies a generalization to specific cases where it doesn’t fit.,No,Marked dotted / out of scope in this study.
+Fallacy of Ambiguity,Equivocation,A key word/phrase shifts meaning across premises/conclusion.,Yes,Different contextual meanings cause ambiguity in logic.
+Fallacy of Ambiguity,Amphiboly,Ambiguity arises from grammatical structure leading to misinterpretation.,No,Marked dotted / not used in experiments.
+Fallacy of Ambiguity,Accent,Meaning changes due to emphasis on different parts of a sentence or phrase.,No,Marked dotted / not used in experiments.
+Fallacy of Ambiguity,Composition,Infers that a whole has attributes just because its parts do.,No,Marked dotted / not used in experiments.
+Fallacy of Ambiguity,Division,Infers that parts have attributes just because the whole does.,No,Marked dotted / not used in experiments.
